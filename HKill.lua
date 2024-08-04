@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexroblox/fullscripts/main/HKill.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/xrA5stjv"))()
